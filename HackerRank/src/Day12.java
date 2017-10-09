@@ -67,9 +67,9 @@ public class Day12 {
 	             return "D";
 	        }else{
 	             return "T";
-	        }
-			
+	        }	
 		}
+		
 	}
 	
 	
